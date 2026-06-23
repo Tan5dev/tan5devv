@@ -101,7 +101,7 @@ Goals:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tan5dev&theme=dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tan5dev&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -111,7 +111,7 @@ Goals:
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyo-night"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </div>
 

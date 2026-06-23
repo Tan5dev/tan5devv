@@ -73,7 +73,7 @@ Goals:
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Tan5dev&show_icons=true&theme=dark&hide_border=true"/>
 
-<img height="170" src="https://streak-stats.demolab.com?user=Tan5dev&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=Tan5dev&theme=dark&hide_border=true"/>
 
 </div>
 
@@ -81,7 +81,7 @@ Goals:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tan5dev&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tan5dev&layout=compact&theme=dark&hide_border=true"/>
 
 </div>
 
@@ -91,7 +91,7 @@ Goals:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Tan5dev&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Tan5dev&theme=dark&no-frame=true&no-bg=true&row=1&column=6"/>
 
 </div>
 
@@ -101,7 +101,7 @@ Goals:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tan5dev&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tan5dev&theme=dark&hide_border=true"/>
 
 </div>
 
@@ -111,7 +111,7 @@ Goals:
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 
 </div>
 

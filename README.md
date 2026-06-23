@@ -101,7 +101,7 @@ Goals:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tan5dev&theme=xcode&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tan5dev&theme=rogue&hide_border=true"/>
 
 </div>
 

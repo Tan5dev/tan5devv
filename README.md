@@ -71,9 +71,9 @@ Goals:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Tan5dev&show_icons=true&theme=dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Tan5dev&show_icons=true&theme=dark&cache_seconds=3600&hide_border=true"/>
 
-<img height="170" src="https://streak-stats.demolab.com?user=Tan5dev&theme=dark&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=Tan5dev&theme=dark&cache_seconds=3600&hide_border=true"/>
 <img height="170" src="![](https://streak-stats.demolab.com?user=Tan5dev&theme=dark&cache_seconds=3600)"/>
 </div>
 

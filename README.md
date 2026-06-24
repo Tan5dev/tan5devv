@@ -74,7 +74,7 @@ Goals:
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Tan5dev&show_icons=true&theme=dark&hide_border=true"/>
 
 <img height="170" src="https://streak-stats.demolab.com?user=Tan5dev&theme=dark&hide_border=true"/>
-
+<img height="170" src="https://streak-stats.demolab.com?user=Tan5dev&theme=tokyonight&cache_seconds=1"/>
 </div>
 
 <br>
@@ -102,6 +102,7 @@ Goals:
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tan5dev&theme=react-dark&hide_border=true"/>
+
 
 </div>
 
